@@ -4,10 +4,10 @@ Software to fit sigmoidal retention function accordingly to the theories present
 and in article: (not published yet).
 
 ### How to use it?
-- Put all the three files on the same folder.
+- Put all the files on the same folder.
 - Edit the configurations on configuration.cfg with any text editor.
 - Edit to insert the observed data points on the data.hpf with any text editor.
-- Run the Python Script
+- Run the Python Script or exe file.
 
 ### Software information:
 The Python script uses third party library: <a href="https://numpy.org/">numpy</a><br>
