@@ -1,5 +1,5 @@
 # hp_Fit
-Software to fit sigmoidal retention function accordingly to the theories presented on:<br>
+Software to fit retention function accordingly to the theories presented on:<br>
 <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-8760.html">https://meetingorganizer.copernicus.org/EGU22/EGU22-8760.html</a><br>
 and in article: (not published yet).
 
