@@ -10,8 +10,8 @@ and in article: (not published yet).
 - Run the Python Script
 
 ### Software information:
-The Python script uses third party libraries: <a href="https://numpy.org/">numpy</a>
-At the moment the software the software just fit van Genuchten - Mualem model, but it'll be extend to other models. The Python code is also "messy", and a cleaner code with more options will be developed.
+The Python script uses third party libraries: <a href="https://numpy.org/">numpy</a><br>
+The software just fit van Genuchten - Mualem model, but it'll be extend to other models. The Python code is also "messy", a cleaner code with more options will be developed.
 
 The fitting of the conductivity function using water content and conductivity data is not working.
 
