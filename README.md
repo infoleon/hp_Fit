@@ -13,8 +13,10 @@ and in article: (not published yet).
 The Python script uses third party library: <a href="https://numpy.org/">numpy</a><br>
 The software just fit van Genuchten - Mualem model, but it'll be extend to other models. The Python code is also "messy", a cleaner code with more options will be developed.
 
-The fitting of the conductivity function using water content and conductivity data is not working.
+The fitting of the conductivity function using water content and conductivity data is not working propoerly.</br>
 
+WCSS 2022 YouTube presentation related to this work: <a ref="https://youtu.be/CImNVUWj1L8">https://youtu.be/CImNVUWj1L8</a></br>
 
+email: inforsato@usp.br
 
 
