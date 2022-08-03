@@ -1,7 +1,7 @@
 # hp_Fit
-Software to fit retention function accordingly to the theories presented on:<br>
+Software to fit retention function accordingly to the theories presented on:<br>WCSS 2022 - Glasgow</br>
 <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-8760.html">https://meetingorganizer.copernicus.org/EGU22/EGU22-8760.html</a><br>
-and in article: (not published yet).
+and in article: (under review).
 
 ### How to use it?
 - Put all the files on the same folder.
