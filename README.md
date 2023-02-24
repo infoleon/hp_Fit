@@ -5,11 +5,11 @@ WCSS 2022 - Glasgow
 <a href="https://meetingorganizer.copernicus.org/EGU22/EGU22-8760.html">https://meetingorganizer.copernicus.org/EGU22/EGU22-8760.html</a><br>
 and in manuscript: (under review).
 
-### How to use it?
-•	Put all the files in the same folder.
-•	Edit the configurations in configuration.cfg with any text editor.
-•	Edit to insert the observed data points in file data.hpf with any text editor.
-•	Run the Python Script or exe file.
+### How to use it?<br>
+•	Put all the files in the same folder.<br>
+•	Edit the configurations in configuration.cfg with any text editor.<br>
+•	Edit to insert the observed data points in file data.hpf with any text editor.<br>
+•	Run the Python Script or exe file.<br>
 
 ### Software information:
 The Python script uses third party library: <a href="https://numpy.org/">numpy</a><br>
